@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Learned Optimizer in PyTorch"
+message: "If you use this research implementation, please cite the repository and the primary learned-optimizer papers listed in the README."
+type: software
+authors:
+  - name: "Jors Academy"
+year: 2026
+license: MIT
+repository-code: "https://github.com/jorsacademy/learned-optimizer-pytorch"
