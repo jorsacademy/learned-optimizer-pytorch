@@ -8,7 +8,8 @@ version = "0.1.0"
 description = "A reproducible coordinate-wise LSTM learned optimizer in PyTorch with held-out and OOD validation."
 readme = "README.md"
 requires-python = ">=3.10"
-license = "MIT"
+license = "LicenseRef-JORS-Academy-Non-Commercial-1.0"
+license-files = ["LICENSE"]
 authors = [{name = "Jors Academy"}]
 dependencies = [
   "numpy>=1.26,<3",
